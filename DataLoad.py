@@ -34,6 +34,7 @@ def dataLoad(filename):
         
         y = y + 1
 
+    #Error messasging for erroneous data    
     for x in range(np.size(dataI,0)):
     
     #All data
